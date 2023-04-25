@@ -2,7 +2,7 @@
 
 Single-point saturation/inhibition values for varous proteins are used to asses general selectivity of a ligand by means of Gini index. Gini index close to 1 indicates high selectivty.
 
-The script was developed for [scanEDGE or scanMAX](https://www.eurofinsdiscoveryservices.com/services/in-vitro-assays/kinases/screening-profiling-services/kinomescan-technology/scanmax/) reports.
+The script works with [scanEDGE or scanMAX](https://www.eurofinsdiscoveryservices.com/services/in-vitro-assays/kinases/screening-profiling-services/kinomescan-technology/scanmax/) reports.
 
 ## References
 
